@@ -319,6 +319,7 @@ button {
 .banner_section {
     width: 100%;
     float: left;
+    color: #000 !important;
 }
 
 .image_1 {
@@ -339,7 +340,7 @@ button {
     width: 100%;
     float: left;
     font-size: 55px;
-    color: #ffffff;
+    color: #000000;
     font-weight: bold;
     text-transform: uppercase;
 }
@@ -348,7 +349,7 @@ button {
     width: 80%;
     float: left;
     font-size: 16px;
-    color: #f8fdfe;
+    color: #000000;
     margin-left: 0px;
 }
 
@@ -361,7 +362,7 @@ button {
     width: 170px;
     float: left;
     font-size: 16px;
-    color: #f8fdfe;
+    color: #000000;
 }
 
 .contact_bt a:hover {
